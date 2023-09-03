@@ -9,4 +9,15 @@ How to Use(refer to linage doc https://wiki.lineageos.org/emulator):
    -lunch <taget>
 3. Build the image
    -mka
+
+
+
+
+Additionnally note:
+1. Kernel Tree
+   -https://github.com/geckyn/android_kernel_samsung_exynos7885/tree/lineage-17.1
+3. Device Tree
+   -https://github.com/geckyn/android_device_samsung_a10/tree/lineage-17.1
+5. Vendor Tree
+   -https://github.com/geckyn/proprietary_vendor_samsung_a10/tree/lineage-17.1
    
